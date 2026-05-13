@@ -13,3 +13,6 @@ print("=== 고급 연산 ===")
 print(power(2, 10))
 print(sqrt(16))
 print(factorial(5))
+
+print("==인사==")
+print("안녕하세요")
